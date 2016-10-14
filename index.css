@@ -1,0 +1,169 @@
+@font-face
+{
+font-family: "policeOrange35";
+src: url("fonts/orange35/OrangeSans35.ttf");
+}
+body{
+    width:950px;
+    margin: auto;
+}
+#all{
+    width:950px;
+    margin: auto;
+    background-color: #FFD700;
+}
+header{
+    background-color: white;
+    height:100px;
+}
+header img{
+    margin-top: 10px;
+    margin-left: 5px;
+    float: left;
+}
+header h1{
+    margin-left: 25px;
+    float: left;
+    font-family: "policeOrange35";
+}
+#yellow{
+    max-width: 1000px;
+    height:500px;
+    background-color: #FFD700;
+}
+#white{
+    float: left;
+    background-color: white;
+    width:2px;
+}
+#arrow{
+    width: 950px;
+}
+#liste1{
+    float: left;
+    width:100px;
+    margin-right: 10px;
+    margin-left: 75px;
+}
+#liste1 img{
+    margin-top: 50px;
+}
+#liste2{
+float: left;
+    width:100px;
+    margin-right: 10px;
+}
+#liste2 img{
+    margin-top: 50px;
+}
+#liste3{
+float: left;
+    width:100px;
+    margin-right: 10px;
+}
+#liste3 img{
+    margin-top: 50px;
+}
+#liste4{
+float: left;
+    width:100px;
+    margin-right: 10px;
+}
+#liste4 img{
+    margin-top: 32px;
+}
+#liste5{
+float: left;
+    width:195px;
+    margin-right: 10px;
+}
+#liste5 img{
+    margin-top: 50px;
+}
+#liste6{
+float: left;
+    width:100px;
+    margin-right: 10px;
+}
+#liste6 img{
+    margin-top: 32px;
+}
+#art_1{
+    height: 240px;
+    float: left;
+    width:640px;
+    margin-top: 50px;
+    margin-left: 20px;
+    background-color: white;
+}
+#art_1 h2{
+    margin-left: 15px;
+}
+#art_1 p{
+    margin-left: 15px;
+}
+#art_2{
+    margin-top: 50px;
+    float: left;
+    background-color: #D3D3D3;
+    margin-left: 10px;
+}
+#art_2 h2{
+    margin-left: 10px;
+}
+#choice1{
+    background-color: white;
+}
+#choice2{
+    background-color: white;
+    margin-top: -17px;
+}
+#choice3{
+    background-color: white;
+    margin-top: -14px;
+}
+#table_choice{
+    float: left;
+}
+#collumn1{
+    float: left;
+    color: white;
+}
+#column2{
+    float: left;
+}
+#France{
+    margin-top: 231px;
+    background-color: grey;
+}
+#Strange{
+background-color:black;
+margin-top: -16px;
+}
+#Internet{
+    background-color: grey;
+    margin-top: -16px;
+    height:50px;
+}
+#line1{
+background-color:black;
+margin-top: -16px;
+height:52px;
+}
+#line2{
+    background-color: grey;
+    margin-top: -16px;
+    height: 52px;
+}
+#column2{
+    height: 400px;
+    width: 141px;
+}
+#appel{
+    padding-top: 10px;
+    margin-bottom: 0px;
+}
+#color{
+        background-color: grey;
+    height: 53px;
+}
